@@ -333,18 +333,6 @@
 			</div>
 		</div>
 	</div>
-
-	<div class="row">
-		<div class="container" style="justify-content: center">
-			<script type="text/javascript" language="javascript">
-				var aax_size='728x90';
-				var aax_pubname = 'unnibindulal1-21';
-				var aax_src='302';
-			  </script>
-			  <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-		</div>
-	</div>
-
 	<!-- Product -->
 	<section class="bg0 p-t-23 p-b-130">
 		<div class="container">
