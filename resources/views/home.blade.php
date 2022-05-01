@@ -214,17 +214,6 @@
 		</div>
 	</section>
 
-	<div class="row">
-		<div class="container" style="justify-content: center">
-			<script type="text/javascript" language="javascript">
-				var aax_size='728x90';
-				var aax_pubname = 'unnibindulal1-21';
-				var aax_src='302';
-			  </script>
-			  <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-		</div>
-	</div>
-
 	<!-- Banner -->
 	<div class="sec-banner bg0 p-t-95 p-b-55">
 		<div class="container">
@@ -431,30 +420,6 @@
 						</div>
 					</div>
 				@endforeach
-			</div>
-			<div class="row" style="width: 100%">
-				<div style="margin-left: 0%">
-					<script type="text/javascript" language="javascript">
-						var aax_size='300x250';
-						var aax_pubname = 'unnibindulal1-21';
-						var aax_src='302';
-					  </script>
-					  <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-				</div>
-				<div class="m-5">
-
-				</div>
-				<div class="m-5">
-
-				</div>
-				<div style="margin-right: 0%">
-					<script type="text/javascript" language="javascript">
-						var aax_size='300x250';
-						var aax_pubname = 'unnibindulal1-21';
-						var aax_src='302';
-					  </script>
-					  <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-				</div>
 			</div>
 		</div>
 	</section>
