@@ -19,7 +19,7 @@
      </div>
      <div class="row">
       <form action="{{ route('AdminLoginData') }}" method="POST">
-        @csrf
+        @{{ csrf_field() }}
           <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Email address</label>
             <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
